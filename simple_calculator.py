@@ -1,4 +1,4 @@
-#simple calculator 
+#simple calculator github
 a = float(input('Введте вещественное число а'))
 b = float(input('Введте вещественное число b'))
 operand = input('''Введите операцию с числами (+, -, /, *, mod, pow, div), где
